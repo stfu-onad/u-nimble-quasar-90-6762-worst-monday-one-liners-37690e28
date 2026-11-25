@@ -1,0 +1,13 @@
+Entry verification — u-nimble-quasar-90-6762-worst-monday-one-liners-37690e28
+Worst Monday One-Liners
+
+Line written by main.py to /output/entry.txt:
+Monday: stand-up ran 47 minutes, my deploy froze at 98%, inbox hit 4,000 — I asked for a coffee break and got a Jira ticket instead.
+
+chars: 132 (limit 140)
+bytes: 134
+sha256: 094385d48aeaf9e39df9341daba1c01fc9c39882148b3b3cab638d7e52112573
+trailing newline: no
+non-whitespace only: yes
+gate (1-140 chars, UTF-8, not only whitespace): PASS
+determinism: main.py run twice, outputs byte-identical (diff empty)
